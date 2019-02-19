@@ -1,2 +1,2 @@
 <?php
-echo "Mira fer";
+echo "Mira fer, Quien usa PHP";
